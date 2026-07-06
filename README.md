@@ -7,8 +7,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 # Links
 
-Live Site URL:  https://yashsvi-gawhade.github.io/frontend-mentor-challenge-3/
-Repository URL: https://github.com/yashsvi-gawhade/frontend-mentor-challenge-3
+- Live Site URL:  https://yashsvi-gawhade.github.io/frontend-mentor-challenge-3/
+- Repository URL: https://github.com/yashsvi-gawhade/frontend-mentor-challenge-3
 
 # My process
 
